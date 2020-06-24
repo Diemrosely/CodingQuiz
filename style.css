@@ -1,0 +1,51 @@
+#nav {
+    display: block;
+    background-color: white;
+    display: inline-block;
+    width: 98vw;
+    border: 3px solid white;
+    border-radius: 5px;
+    margin: 6px;
+}
+
+.right {
+    float: right;
+}
+
+.left {
+    float: left;
+}
+
+h4 {
+    padding: 10px 8px 10px 8px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+button {
+    display: block;
+    background-color: #c0c0c0;
+    color: white;
+    border-radius: 5px;
+    padding: 10px 16px 10px 16px;
+    font-size: 17px;
+    font-family: 'Inconsolata', monospace;
+    margin: 10px auto;
+}
+
+body {
+    font-family: 'Inconsolata', monospace;
+    background-color: gainsboro;
+}
+
+#quizBody {
+    text-align: center;
+    padding: 12vh;
+}
+
+#quiz {
+    text-align: center;
+}
