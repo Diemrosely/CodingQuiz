@@ -1,6 +1,6 @@
 # 04 Web APIs: Code Quiz
 
-As you proceed in your career as a web developer, you will probably be asked to complete a coding assessment, which is typically a combination of multiple-choice questions and interactive challenges. Build a timed code quiz with multiple-choice questions. This app will run in the browser and feature dynamically updated HTML and CSS powered by your JavaScript code. It will also feature a clean and polished user interface and be responsive, ensuring that it adapts to multiple screen sizes.
+This app is a multiple-choice question Coding Quiz.  Test your knowledge but be aware of the ticking time on the right hand corner!  Try to answer all the questions before the time runs out so you can get your name on the High Score! This app runs in the browser and features dynamically updated HTML, CSS, and powered by Javascript.  
 
 ## User Story
 
